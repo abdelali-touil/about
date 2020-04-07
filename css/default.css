@@ -48,7 +48,7 @@ h6 {
     }
 
 a {
-    color              : #40E0D0;
+    color              : #2a54f5;
     text-decoration    : none;
     -webkit-transition : all 0.3s ease 0s;
     -moz-transition    : all 0.3s ease 0s;
@@ -67,7 +67,7 @@ a:active {
 a:hover,
 a:focus {
     text-decoration : none;
-    color           : #40E0D0;
+    color           : #2a54f5;
     }
 
 p {
@@ -97,7 +97,7 @@ ul {
     }
 
 .btn-primary {
-    background-color : #40E0D0;
+    background-color : #2a54f5;
     }
 
 .btn-primary:hover,
@@ -107,17 +107,17 @@ ul {
     }
 
 .btn-default {
-    color            : #40E0D0;
+    color            : #2a54f5;
     background-color : transparent;
-    border           : 2px solid #40E0D0;
+    border           : 2px solid #2a54f5;
     }
 
 .btn-default:hover,
 .btn-default:focus,
 .btn-default:active:focus {
-    background   : #40E0D0;
+    background   : #2a54f5;
     color        : #ffffff;
-    border-color : #40E0D0;
+    border-color : #2a54f5;
     }
 
 button:focus,
@@ -211,7 +211,7 @@ button:focus,
     z-index             : -1;
     width               : 100%;
     height              : 100%;
-    background-image    : url(../img/img-profile.jpg);
+    background-image    : url(../img/img-profile.png);
     background-size     : cover;
     background-position : center top;
     }
@@ -225,8 +225,8 @@ button:focus,
     bottom     : 0;
     background : linear-gradient(
             -30deg,
-            rgba(174, 250, 250, 0.5) 0%,
-            rgba(42, 245, 245, 0.5) 40%,
+            rgba(42, 84, 245, 0.5) 0%,
+            rgba(42, 84, 245, 0.5) 40%,
             transparent 60%,
             transparent 100%
     );
@@ -324,7 +324,7 @@ button:focus,
     }
 
 .progress-item .progress-bar {
-    background-color : #40E0D0;
+    background-color : #2a54f5;
     box-shadow       : none;
     text-align       : right;
     }
@@ -453,7 +453,7 @@ button:focus,
     }
 
 #preloader {
-    background : #40E0D0;
+    background : #2a54f5;
     bottom     : 0;
     left       : 0;
     position   : fixed;
